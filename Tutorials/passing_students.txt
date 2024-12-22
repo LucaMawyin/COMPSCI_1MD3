@@ -1,0 +1,9 @@
+Alice,20,80
+Bob,19,78
+Chloe,20,94
+Dave,21,89
+Ella,21,65
+Frank,20,75
+Georgia,19,99
+Harry,20,85
+Luc,20,79
