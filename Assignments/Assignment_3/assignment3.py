@@ -194,24 +194,3 @@ def addToAll(list:List[str], s:str) -> List[str]:
         list[i] = s + list[i]
 
     return list
-
-'''
-data = {}
-insert(data, "test")
-insert(data, "testing")
-insert(data, "tree")
-insert(data, "trie")
-insert(data, "try")
-insert(data, "trying")
-insert(data, "doc")
-insert(data, "docs")
-insert(data, "document")
-insert(data, "documenting")
-insert(data, "python")
-insert(data, "pro")
-insert(data, "professionnal")
-insert(data, "program")
-insert(data, "programming")
-insert(data, "programmer")
-insert(data, "programmers")
-'''
